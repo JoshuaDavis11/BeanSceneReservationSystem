@@ -1,0 +1,221 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BeanSceneReservationSystem
+build_property.RootNamespace = BeanSceneReservationSystem
+build_property.ProjectDir = C:\Users\User\Desktop\FinalProject\FinalProjectFolder (1)\FinalProjectFolder\FinalProjectFolder\FinalProjectFolder\BeanSceneReservationSystem\BeanSceneReservationSystem\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\FinalProject\FinalProjectFolder (1)\FinalProjectFolder\FinalProjectFolder\FinalProjectFolder\BeanSceneReservationSystem\BeanSceneReservationSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Management/Views/Calender/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xDYWxlbmRlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Management/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xIb21lXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Management/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Management/Views/Report/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xSZXBvcnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Management/Views/Sitting/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xTaXR0aW5nXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Management/Views/Sitting/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xTaXR0aW5nXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Management/Views/Sitting/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xTaXR0aW5nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Management/Views/Sitting/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xTaXR0aW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Management/Views/Sitting/Warning.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xTaXR0aW5nXFdhcm5pbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Management/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xVc2VyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Management/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Management/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Membership/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc2hpcFxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Membership/Views/Reservation/Booking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc2hpcFxWaWV3c1xSZXNlcnZhdGlvblxCb29raW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Membership/Views/Reservation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc2hpcFxWaWV3c1xSZXNlcnZhdGlvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Membership/Views/Reservation/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc2hpcFxWaWV3c1xSZXNlcnZhdGlvblxNYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Membership/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc2hpcFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Membership/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc2hpcFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Staff/Views/Home/EditSitting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcSG9tZVxFZGl0U2l0dGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Staff/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Staff/Views/Home/Sitting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcSG9tZVxTaXR0aW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Staff/Views/ReservationTable/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcUmVzZXJ2YXRpb25UYWJsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Staff/Views/Reservation/Booking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcUmVzZXJ2YXRpb25cQm9va2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Staff/Views/Reservation/BookingConfirmationPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcUmVzZXJ2YXRpb25cQm9va2luZ0NvbmZpcm1hdGlvblBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Staff/Views/Reservation/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcUmVzZXJ2YXRpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Staff/Views/Reservation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcUmVzZXJ2YXRpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Staff/Views/Reservation/GetReservations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcUmVzZXJ2YXRpb25cR2V0UmVzZXJ2YXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Staff/Views/Reservation/Sitting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcUmVzZXJ2YXRpb25cU2l0dGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Staff/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Staff/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Views/AccountLayout/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudExheW91dFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Views/Reservation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Management/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-dngbastg34
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Membership/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc2hpcFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-zi4ixyl5y6
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Areas/Staff/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nkoxtsgpwx
+
+[C:/Users/User/Desktop/FinalProject/FinalProjectFolder (1)/FinalProjectFolder/FinalProjectFolder/FinalProjectFolder/BeanSceneReservationSystem/BeanSceneReservationSystem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tkecbhdshe
